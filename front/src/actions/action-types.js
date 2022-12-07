@@ -1,0 +1,5 @@
+
+
+export const GET_TASKS = "GET_TASKS"
+export const NEW_TASKS = "REALOAD_TASKS"
+export const TASK_COMPLETED_OR_NOT = "TASK_COMPLETED_OR_NOT"
